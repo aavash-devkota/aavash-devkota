@@ -16,8 +16,17 @@
 
 ## 🎓 Background
 
-- **B.Sc. CSIT, Tribhuvan University** — 81.07% Distinction, full-tuition merit scholarship
-- **PCNSP** (Palo Alto) · **ISC² CC** · **CCNA** (Routing & Switching)
+- B.Sc. CSIT, Tribhuvan University (2020–2024)
+
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.paloaltonetworks.com/"><img src="https://img.shields.io/badge/Palo%20Alto-PCNSP-red?style=for-the-badge&logo=paloaltonetworks&logoColor=white" /></a>
+  <a href="https://www.isc2.org/"><img src="https://img.shields.io/badge/ISC%C2%B2-CC-green?style=for-the-badge&logo=isc2&logoColor=white" /></a>
+  <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+</p>
+
+<p align="center"><b>PCNSP</b> · Palo Alto Certified Network Security Professional &nbsp;|&nbsp; <b>ISC² CC</b> · Certified in Cybersecurity &nbsp;|&nbsp; <b>CCNA</b> · Routing & Switching</p>
 
 ## 🔬 Interests
 
@@ -48,10 +57,36 @@ CLI + FastAPI + web dashboard + Prometheus metrics + Docker.
 
 ## 🧰 Skills
 
-- **Languages:** C, C++, Python, Bash, Go, PHP, SQL
-- **Systems:** Linux, Windows Server, VMware ESXi, Proxmox, Docker, SAN/NAS
-- **Networking:** Cisco/Juniper/Palo Alto/Fortinet/Sophos/Ruijie/MikroTik, VLANs, VPN, SD-WAN, firewall policy
-- **Security:** SIEM/SOC (Wazuh, Splunk, LogRhythm), Nessus, Burp Suite, Nmap, Wireshark, vulnerability management
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Palo%20Alto-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-DA291C?style=flat-square&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sophos-00539F?style=flat-square&logo=sophos&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh-25BC4E?style=flat-square&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-65A637?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00BFFF?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-00A98F?style=flat-square&logo=tenable&logoColor=white" />
+</p>
 
 ---
 
