@@ -1,6 +1,6 @@
 # Aavash Devkota
 
-Cybersecurity / DevSecOps engineer — vulnerability intelligence, domain intelligence tooling, DNS/email security, monitoring.
+System Engineer & security enthusiast — vulnerability intelligence, domain intelligence tooling, DNS/email security, monitoring.
 
 ## Projects
 
