@@ -2,19 +2,16 @@
 
 Cybersecurity / DevSecOps engineer — vulnerability intelligence, domain intelligence tooling, DNS/email security, monitoring.
 
-## Flagship: CVEGuard
+## Projects
 
-**CVEGuard** is a vulnerability intelligence platform: a Laravel (Blade) server, Go-based
-client, and a Go seeder that ingest CVE data and surface it for analysis.
+### CVEGuard — vulnerability management
 
-- **[cveguard-server](https://github.com/aavash-devkota/cveguard-server)** — Laravel/Blade web server for the platform
-- **[cveguard-client](https://github.com/aavash-devkota/cveguard-client)** — Go client (CLI) for interacting with the service
-- **[cveguard-vulnerabilities-seeder](https://github.com/aavash-devkota/cveguard-vulnerabilities-seeder)** — Go seeder that populates vulnerability data
+A centralized vulnerability management system for software projects.
 
-## Also maintained
+- **[cveguard-server](https://github.com/aavash-devkota/cveguard-server)** — Laravel web server for the platform (docs: https://aavash-devkota.github.io/cveguard-server/)
+- **[cveguard-client](https://github.com/aavash-devkota/cveguard-client)** — Go CLI client
+- **[cveguard-vulnerabilities-seeder](https://github.com/aavash-devkota/cveguard-vulnerabilities-seeder)** — Go seeder for CVE data
 
-- **[DomainWatch](https://github.com/aavash-devkota/DomainWatch)** — open-source domain availability, price, expiration, DNS and security monitoring platform (CLI + REST API + dashboard + Prometheus metrics)
+### DomainWatch — domain intelligence
 
-## Links
-
-- DomainWatch docs: https://aavash-devkota.github.io/DomainWatch/
+- **[DomainWatch](https://github.com/aavash-devkota/DomainWatch)** — open-source domain availability, price, expiration, DNS and security monitoring platform (CLI + REST API + dashboard + Prometheus metrics). Docs: https://aavash-devkota.github.io/DomainWatch/
