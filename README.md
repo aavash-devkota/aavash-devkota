@@ -14,25 +14,23 @@
 
 ---
 
-## 🎓 Highlights
+## 🎓 Background
 
 - **B.Sc. CSIT, Tribhuvan University** — 81.07% Distinction, full-tuition merit scholarship
-- **Ph.D. applicant, Fall 2027** — Cyber-Physical Systems Security, Indiana University Bloomington
 - **PCNSP** (Palo Alto) · **ISC² CC** · **CCNA** (Routing & Switching)
-- Lead presenter, cybersecurity-awareness program reaching **150+** students/staff (Rotary partnered)
 
-## 🔬 Research interests
+## 🔬 Interests
 
-Vulnerability analysis of complex software systems, and the gap between how safety-critical systems are specified vs. how they behave once deployed — currently exploring *physically-weighted vulnerability reachability* (ranking supply-chain exposure by whether a vulnerable dependency can influence physical state).
+Vulnerability analysis of complex software systems; supply-chain exposure assessment; domain & email security; infrastructure monitoring.
 
 ## 📦 Projects
 
 ### 🛡️ CVEGuard — Centralized Vulnerability Management
-Supply-chain vulnerability analysis platform built as a solo final-year project.
+Supply-chain vulnerability analysis platform (solo final-year project).
 
 - **Stack:** Go · PHP (Laravel 11) · MySQL · OSV/GHSA format
-- **Scale:** full upstream GHSA DB (~430 MB, ~24k advisories) seeds **7,040 npm vulnerabilities / 3,136 packages in <1 min**
-- **Engineering:** three-component system (Go CLI lockfile scanner, Go GHSA seeder, Laravel server with `Composer\Semver\Comparator` matching `introduced <= installed < fixed`), adversarial testing fixed 5 real defects
+- **Scale:** ~430 MB upstream advisory DB → 7,040 npm vulnerabilities / 3,136 packages seeded in under a minute
+- Three-component system: Go CLI lockfile scanner, Go GHSA seeder, Laravel server with semantic-version range matching
 
 | Component | Stack | What it does |
 |---|---|---|
@@ -60,5 +58,4 @@ CLI + FastAPI + web dashboard + Prometheus metrics + Docker.
 <p align="center">
   <img src="https://img.shields.io/badge/Docs-CVEGuard-a371f7?style=flat-square" />
   <img src="https://img.shields.io/badge/Docs-DomainWatch-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scholarships-Merit%20·%20MGSS-green?style=flat-square" />
 </p>
