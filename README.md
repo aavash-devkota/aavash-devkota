@@ -28,9 +28,8 @@
 <p align="center"><b>PCNSP</b> · Palo Alto Certified Network Security Professional &nbsp;|&nbsp; <b>CCNA</b> · Routing & Switching</p>
 
 <p align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="691a9284-90fc-4a06-8fb5-dea061444da1" data-share-badge-host="https://www.credly.com"></div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2c2887ed-8c93-4ac3-aed8-6e9829c27976" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/691a9284-90fc-4a06-8fb5-dea061444da1"><img src="https://images.credly.com/images/691a9284-90fc-4a06-8fb5-dea061444da1/image.png" width="150" /></a>
+  <a href="https://www.credly.com/badges/2c2887ed-8c93-4ac3-aed8-6e9829c27976"><img src="https://images.credly.com/images/2c2887ed-8c93-4ac3-aed8-6e9829c27976/image.png" width="150" /></a>
 </p>
 
 ## 🔬 Interests
