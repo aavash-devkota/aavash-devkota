@@ -1,17 +1,41 @@
-# Aavash Devkota
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Engineer-●-00e5ff?style=for-the-badge&labelColor=0b1020" />
+  <img src="https://img.shields.io/badge/Security%20Enthusiast-●-7c3aed?style=for-the-badge&labelColor=0b1020" />
+</p>
 
-System Engineer & security enthusiast — vulnerability intelligence, domain intelligence tooling, DNS/email security, monitoring.
+<h1 align="center">Aavash Devkota</h1>
+<p align="center"><i>System Engineer · Security Enthusiast · Building security tooling for the web</i></p>
 
-## Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Vulnerability%20Intelligence-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Domain%20Security-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Monitoring-green?style=flat-square" />
+</p>
 
-### CVEGuard — vulnerability management
+---
 
-A centralized vulnerability management system for software projects.
+## 📦 Projects
 
-- **[cveguard-server](https://github.com/aavash-devkota/cveguard-server)** — Laravel web server for the platform (docs: https://aavash-devkota.github.io/cveguard-server/)
-- **[cveguard-client](https://github.com/aavash-devkota/cveguard-client)** — Go CLI client
-- **[cveguard-vulnerabilities-seeder](https://github.com/aavash-devkota/cveguard-vulnerabilities-seeder)** — Go seeder for CVE data
+### 🛡️ CVEGuard — Centralized Vulnerability Management
+A platform to find, prioritize, and fix security vulnerabilities in software dependencies.
 
-### DomainWatch — domain intelligence
+| Component | Stack | What it does |
+|---|---|---|
+| [cveguard-server](https://github.com/aavash-devkota/cveguard-server) | Laravel / PHP | Web UI + API; projects, dependencies, vulnerabilities |
+| [cveguard-client](https://github.com/aavash-devkota/cveguard-client) | Go | CLI that scans `package-lock.json` and syncs with the server |
+| [cveguard-vulnerabilities-seeder](https://github.com/aavash-devkota/cveguard-vulnerabilities-seeder) | Go | Seeds the CVE database from GitHub Security Advisory data |
 
-- **[DomainWatch](https://github.com/aavash-devkota/DomainWatch)** — open-source domain availability, price, expiration, DNS and security monitoring platform (CLI + REST API + dashboard + Prometheus metrics). Docs: https://aavash-devkota.github.io/DomainWatch/
+> 📄 Full project report: https://aavash-devkota.github.io/cveguard-server/project-report/
+
+### 🔭 DomainWatch — Domain Intelligence & Monitoring
+UptimeRobot-for-domains: availability, price, expiration, DNS and security monitoring.
+
+- [DomainWatch](https://github.com/aavash-devkota/DomainWatch) — CLI + REST API + dashboard + Prometheus metrics
+- Docs: https://aavash-devkota.github.io/DomainWatch/
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pages-DomainWatch%20Docs-1f6feb?style=flat-square" alt="DomainWatch Docs" />
+  <img src="https://img.shields.io/badge/Pages-CVEGuard%20Docs-a371f7?style=flat-square" alt="CVEGuard Docs" />
+</p>
