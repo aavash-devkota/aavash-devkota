@@ -30,7 +30,7 @@
 <p align="center">
   <img src="assets/pcnsp.png" width="150" alt="PCNSP" />
   &nbsp;&nbsp;
-  <img src="assets/ccna.png" width="150" alt="CCNA" />
+  <img src="assets/ccna.png" width="150" alt="CCNA" style="background:#ffffff;border-radius:12px;padding:6px" />
 </p>
 
 ## 🔬 Interests
